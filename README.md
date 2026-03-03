@@ -58,7 +58,7 @@ During peer evaluation, you will need to solve three random levels within a limi
 - [What is routing? | IP routing](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-routing/)
 - [What Is a Routing Table and How Does It Work?](https://www.coursera.org/articles/routing-table)
 
-AI tools (ChatGPT) were used for:<br>
+AI tools [ChatGPT](https://chatgpt.com/) were used for:<br>
 - Clarifying networking theory (subnet masks, CIDR notation, etc.)
 - Structuring the README
 - Reviewing explanations for clarity
